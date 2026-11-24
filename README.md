@@ -31,8 +31,8 @@
 
 <table>
   <tr>
-    <td align="center" valign="top"><img src="https://raw.githubusercontent.com/kaka-stata/kakafind/main/qr-gzh.jpg" width="190" alt="公众号二维码"><br><b>关注公众号</b><br>卡卡 stata 实证研究</td>
-    <td align="center" valign="top"><img src="https://raw.githubusercontent.com/kaka-stata/kakafind/main/qr-wx.jpg" width="190" alt="个人微信二维码"><br><b>加我微信</b><br>卡卡 stata 亲自做 更靠谱！</td>
-    <td align="center" valign="top"><img src="https://raw.githubusercontent.com/kaka-stata/kaka-stata/main/50a72e077f94a4e80cd2a09f10a18d02.jpg" width="190" alt="小红书二维码"><br><b>小红书找我</b></td>
+    <td align="center" valign="top" width="220"><img src="https://raw.githubusercontent.com/kaka-stata/kakafind/main/qr-gzh.jpg" width="190" height="190" alt="公众号二维码"><br><b>关注公众号</b><br><sub>卡卡 stata 实证研究</sub></td>
+    <td align="center" valign="top" width="220"><img src="https://raw.githubusercontent.com/kaka-stata/kakafind/main/qr-wx.jpg" width="190" height="190" alt="个人微信二维码"><br><b>加我微信</b><br><sub>卡卡 stata 亲自做 更靠谱！</sub></td>
+    <td align="center" valign="top" width="220"><img src="https://raw.githubusercontent.com/kaka-stata/kaka-stata/main/qr-xhs.jpg" width="190" height="190" alt="小红书二维码"><br><b>小红书找我</b><br><sub>卡卡 stata 实证研究 · 小红书号 95991197260</sub></td>
   </tr>
 </table>
